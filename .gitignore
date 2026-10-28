@@ -1,0 +1,24 @@
+# Build
+target/
+build/
+out/
+bin/
+obj/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.vs/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Claude Code
+.claude/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
